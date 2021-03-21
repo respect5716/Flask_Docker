@@ -31,7 +31,7 @@ docker run --name flask -p 5000:5000 flask-image
 
 ### Volume
 
-This method mounts the files and directory to a docker container. So the code changes can be applied when using flask debug mode.
+This method mounts the files and directory to a docker container. So the code changes can be applied.
 
 ```shell
 git clone https://github.com/respect5716/Flask_Docker.git
